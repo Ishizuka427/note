@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Link Maker",
+  "version": "1.0",
+  "description": "Make link of current tab quickly",
+  "browser_action": {
+   "default_popup": "popup.html", 
+   "default_icon": "icon.png"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "icons" : {
+    "128": "icon.png"
+  }
+}
