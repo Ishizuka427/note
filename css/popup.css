@@ -38,8 +38,8 @@ input:checked + .tab_class + .content_class {
 
 h1 {
   border-bottom: solid 3px skyblue;
-  font-size: 1.2rem;
-  letter-spacing: 2px;
+  font-size: .6rem;
+  letter-spacing: 1px;
   position: relative;
 }
 
