@@ -5,5 +5,4 @@ const encodedValue = escape(event.target.value);
 document.cookie = `note=${encodedValue}`;
 });
 
-textareaElement.value = unescape(Cookies.get('note'))
-
+textareaElement.value = unescape(Cookies.get('note') || '');
