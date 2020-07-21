@@ -4,6 +4,11 @@
   flex-wrap: wrap;
   display: flex;
 }
+
+
+textarea {
+    font-family :SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+}
  
 .tab_class {
   width: calc(100%/5);

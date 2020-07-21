@@ -6,6 +6,6 @@
 
 こちらで追加できます👇
 
-
+https://chrome.google.com/webstore/detail/note/hfijdjgjnmpaffofiiifobemmajohlda?hl=ja&authuser=0
 
 [CodePen](https://codepen.io/ishizuka427/pen/NWxEvpo)公開しています
