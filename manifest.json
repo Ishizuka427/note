@@ -8,7 +8,6 @@
    "default_icon": "pencil.png"
   },
   "permissions": [
-    "tabs"
   ],
   "icons" : {
     "128": "pencil.png"
